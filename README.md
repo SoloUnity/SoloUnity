@@ -12,8 +12,8 @@
 
 
 #### Favourite Repositories
-<a href="https://github.com/SoloUnity/Final-Project-App">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloUnity&repo=Final-Project-App" alt="App">
+<a href="https://github.com/SoloUnity/lecture-app">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloUnity&repo=lecture-app" alt="App">
 </a>
 
 <a href="https://github.com/SoloUnity/macos-apps-and-enhancements">
