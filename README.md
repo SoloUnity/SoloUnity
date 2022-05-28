@@ -12,7 +12,7 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
 
 <!-- From https://github.com/anuraghazra/github-readme-stats -->
 
-**My Statss**
+#### My Stats and Favourite Repositories
 <a href="https://github.com/SoloUnity?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoloUnity&hide=css,html&langs_count=3" />
 </a>
