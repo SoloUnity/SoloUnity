@@ -11,5 +11,13 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloUnity" alt="My Stats">
 </a>
 
-## Favourite Project
+## Favourite Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SoloUnity&repo=Final-Project-App)](https://github.com/SoloUnity/Final-Project-App)
+
+<a href="https://github.com/SoloUnity/Final-Project-App">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloUnity&repo=Final-Project-App" alt="App">
+</a>
+
+<a href="https://github.com/SoloUnity/macos-apps-and-enhancements">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloUnity&repo=macos-apps-and-enhancements" alt="Mac Apps">
+</a>
