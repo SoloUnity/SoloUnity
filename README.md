@@ -17,7 +17,7 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoloUnity&hide=css,html&langs_count=3" />
 </a>
 <a href="https://github.com/SoloUnity?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloUnity&show_icons=true&line_height=27&count_private=true" alt="My GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloUnity&show_icons=true&line_height=27&count_private=true&hide=prs,issues" alt="My GitHub Stats" />
 </a>
 <a href="https://github.com/SoloUnity/lecture-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloUnity&repo=lecture-app" />
