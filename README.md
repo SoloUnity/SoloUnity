@@ -1,6 +1,6 @@
 ### Hi there 👋
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoloUnity)](https://github.com/anuraghazra/github-readme-stats)
-
+[![SoloUnity's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoloUnity)](https://github.com/SoloUnity?tab=repositories)
+[![SoloUnity's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SoloUnity&hide=css,html&layout=compact)](https://github.com/SoloUnity?tab=repositories)
 
 
 
