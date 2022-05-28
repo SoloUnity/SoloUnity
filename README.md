@@ -15,6 +15,6 @@
 
 #### Some Stats
 <a href="https://github.com/SoloUnity?tab=repositories">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloUnity&hide=prs,issues" alt="My Stats">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoloUnity&hide=css,html" alt="My Top Languages">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloUnity&hide=prs,issues" alt="My Stats">
 </a>
