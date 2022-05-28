@@ -4,7 +4,7 @@
 
 <!-- All for the aesthetics, from https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/SoloUnity?tab=repositories">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoloUnity" alt="My Top Languages">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoloUnity&hide=css,html&layout=compact" alt="My Top Languages">
 </a>
 
 <a href="https://github.com/SoloUnity?tab=repositories">
