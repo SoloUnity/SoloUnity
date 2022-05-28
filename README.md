@@ -2,11 +2,11 @@
 [![SoloUnity's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoloUnity)](https://github.com/SoloUnity?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoloUnity)](https://github.com/SoloUnity?tab=repositories)
 
-<a href="https://github.com/SoloUnity?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloUnity&repo=github-readme-stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloUnity&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
 <!--
