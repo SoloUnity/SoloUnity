@@ -11,7 +11,7 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloUnity" alt="My Stats">
 </a>
 
-## Favourite Repositories
+##### Favourite Repositories
 <a href="https://github.com/SoloUnity/Final-Project-App">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloUnity&repo=Final-Project-App" alt="App">
 </a>
