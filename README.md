@@ -1,7 +1,8 @@
 ### Hi there 👋
-[![SoloUnity's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoloUnity)](https://github.com/SoloUnity?tab=repositories)
-[![SoloUnity's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SoloUnity&hide=css,html&layout=compact)](https://github.com/SoloUnity?tab=repositories)
-
+<div align = "center">
+[![SoloUnity's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoloUnity)](https://github.com/SoloUnity?tab=repositories)
+[![SoloUnity's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoloUnity&hide=css,html&layout=compact)](https://github.com/SoloUnity?tab=repositories)
+</div>
 
 
 <!--
