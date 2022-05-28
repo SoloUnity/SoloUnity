@@ -9,9 +9,10 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloUnity&hide=prs,issues" alt="My Stats">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoloUnity&hide=css,html" alt="My Top Languages">
 </a>
-
+</div>
 
 #### Favourite Repositories
+<div align="center">
 <a href="https://github.com/SoloUnity/lecture-app">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloUnity&repo=lecture-app" alt="App">
 </a>
