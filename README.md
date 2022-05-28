@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://github.com/SoloUnity?tab=repositories">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloUnity" alt="My Stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloUnity&hide=prs,issues" alt="My Stats">
 </a>
 
 #### Favourite Repositories
