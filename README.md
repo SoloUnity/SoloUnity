@@ -1,6 +1,4 @@
-![Hello](https://user-images.githubusercontent.com/77747704/170803857-6abd7696-3db1-49a0-93f5-587d7571a4e3.png)
-
-
+![output-onlinepngtools-2](https://user-images.githubusercontent.com/77747704/170804049-584d6818-1f80-4073-bbba-563e02a3fcd2.png)
 
 <!-- All for the aesthetics, from https://github.com/anuraghazra/github-readme-stats -->
 
