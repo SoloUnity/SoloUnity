@@ -12,16 +12,17 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
 
 <!-- From https://github.com/anuraghazra/github-readme-stats -->
 
-#### My Stats and Favourite Repositories
-<a href="https://github.com/SoloUnity?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoloUnity&hide=css,html&langs_count=3" />
-</a>
-<a href="https://github.com/SoloUnity?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloUnity&show_icons=true&line_height=40&count_private=true&hide=prs,issues" alt="My GitHub Stats" />
-</a>
+#### My Favourite Repositories and Stats
 <a href="https://github.com/SoloUnity/lecture-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloUnity&repo=lecture-app" />
 </a>
 <a href="https://github.com/SoloUnity/macos-apps-and-enhancements">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloUnity&repo=macos-apps-and-enhancements" />
 </a>    
+<a href="https://github.com/SoloUnity?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoloUnity&hide=css,html&langs_count=3" />
+</a>
+<a href="https://github.com/SoloUnity?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloUnity&show_icons=true&line_height=40&count_private=true&hide=prs,issues" alt="My GitHub Stats" />
+</a>
+
