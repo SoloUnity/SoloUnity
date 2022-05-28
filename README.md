@@ -1,9 +1,6 @@
 ### Hi there 👋
-<a href="https://github.com/SoloUnity?tab=repositories">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloUnity" alt="My Github Stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoloUnity&hide=css,html&layout=compact" alt="My Top Languages">
- </a>
- 
+[![SoloUnity's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoloUnity)](https://github.com/SoloUnity?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoloUnity)](https://github.com/SoloUnity?tab=repositories)
  
 <!--
 **SoloUnity/SoloUnity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
