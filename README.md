@@ -1,5 +1,6 @@
-<img align="center" width="400" height="225" src="https://user-images.githubusercontent.com/77747704/170804049-584d6818-1f80-4073-bbba-563e02a3fcd2.png" alt="Hello">
-
+<div align="center">
+   <img align="center" width="400" height="225" src="https://user-images.githubusercontent.com/77747704/170804049-584d6818-1f80-4073-bbba-563e02a3fcd2.png" alt="Hello">
+</div>
 <!-- All for the aesthetics, from https://github.com/anuraghazra/github-readme-stats -->
 
 <a href="https://github.com/SoloUnity?tab=repositories">
