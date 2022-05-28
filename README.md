@@ -6,7 +6,7 @@ Hi there, I'm Gordon!
 
 I'm a student from Canada 🇨🇦
 
-** About me **
+**About me**
 - ❤️ I love to use Swift in apps to solve the little problems in life
 - 📚 Studying Computer Engineering at the University of Waterloo
 - 💼 Freelance app developper
