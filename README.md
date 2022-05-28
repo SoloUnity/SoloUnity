@@ -2,9 +2,7 @@
    <img align="center" width="300" height="169" src="https://user-images.githubusercontent.com/77747704/170804049-584d6818-1f80-4073-bbba-563e02a3fcd2.png" alt="Hello">
 </div>
 
-Hi there, I'm Gordon!
-
-I'm a student from Canada 🇨🇦
+Hi there! I'm Gordon, a student from Canada 🇨🇦
 
 **About me**
 - ❤️ I love to use Swift in apps to solve the little problems in life
