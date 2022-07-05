@@ -29,16 +29,16 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77747704/177408815-db8074f0-815f-4efd-b927-200af7e1dcff.png" alt="blender" width="40" height="40"/> </a> </p>
 
-![swift-transportation-logo-clipart-8-removebg-preview](https://user-images.githubusercontent.com/77747704/177408815-db8074f0-815f-4efd-b927-200af7e1dcff.png)
-![swift-transportation-logo-clipart-8-removebg-preview](https://user-images.githubusercontent.com/77747704/177408815-db8074f0-815f-4efd-b927-200af7e1dcff.png)
-![css-3-logo-clipart-removebg-preview](https://user-images.githubusercontent.com/77747704/177408816-ed264b20-2380-4582-85b5-fed62d32927d.jpeg)
-![css-3-logo-clipart-removebg-preview](https://user-images.githubusercontent.com/77747704/177408816-ed264b20-2380-4582-85b5-fed62d32927d.jpeg)
-![Python_logo_icon](https://user-images.githubusercontent.com/77747704/177408817-e78c209b-57fb-4c50-8e6c-ab3dcc6c7d21.png)
-![Python_logo_icon](https://user-images.githubusercontent.com/77747704/177408817-e78c209b-57fb-4c50-8e6c-ab3dcc6c7d21.png)
-![HTML5_badge-removebg-preview](https://user-images.githubusercontent.com/77747704/177408820-fde0614b-7d09-4329-8588-69d16bfec884.jpeg)
-![HTML5_badge-removebg-preview](https://user-images.githubusercontent.com/77747704/177408820-fde0614b-7d09-4329-8588-69d16bfec884.jpeg)
-![swiftui-og-1024x538](https://user-images.githubusercontent.com/77747704/177408822-9f4dff4b-5b9e-4e40-b095-ee3d25ad451d.jpeg)
-![swiftui-og-1024x538](https://user-images.githubusercontent.com/77747704/177408822-9f4dff4b-5b9e-4e40-b095-ee3d25ad451d.jpeg)
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77747704/177408816-ed264b20-2380-4582-85b5-fed62d32927d.jpeg" alt="blender" width="40" height="40"/> </a> </p>
+
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77747704/177408817-e78c209b-57fb-4c50-8e6c-ab3dcc6c7d21.png" alt="blender" width="40" height="40"/> </a> </p>
+
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77747704/177408820-fde0614b-7d09-4329-8588-69d16bfec884.jpeg" alt="blender" width="40" height="40"/> </a> </p>
+
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77747704/177408822-9f4dff4b-5b9e-4e40-b095-ee3d25ad451d.jpeg" alt="blender" width="40" height="40"/> </a> </p>
+
+
+
 
