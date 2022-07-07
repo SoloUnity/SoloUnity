@@ -10,6 +10,11 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
 - 💼 Freelance app developper
 - 🎧 Probably listening to [music](https://open.spotify.com/playlist/66AeDiMrDqXStAK0DnrcYA?si=e128f373ef7847bd)
 
+#### Toolbox
+<p align="left"> 
+<!-- 🔵SWIFT --><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/77747704/177408815-db8074f0-815f-4efd-b927-200af7e1dcff.png" alt="blender" width="40" height="40"/> </a> <!-- 🔵SWIFTUI --> <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77747704/177707038-67b6ae85-ab5c-41f3-9363-23c3ed013b59.png" alt="blender" width="40" height="40"/> </a> <!-- 🔵PYTHON --> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77747704/177408817-e78c209b-57fb-4c50-8e6c-ab3dcc6c7d21.png" alt="blender" width="40" height="40"/> </a> <!-- 🔵HTML --> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77747704/177707037-3945dd1b-13bf-4fd9-bdde-8c0888bdcb4f.png" alt="blender" width="40" height="40"/> </a> <!-- 🔵CSS --> <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77747704/177707032-d1534118-d146-4d1b-95ed-6be01ace4829.png" alt="blender" width="40" height="40"/> </a> 
+</p>   
+
 <!-- From https://github.com/anuraghazra/github-readme-stats -->
 
 #### My Favourite Repositories and Some Stats
@@ -25,16 +30,6 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
 <a href="https://github.com/SoloUnity?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloUnity&show_icons=true&line_height=40&count_private=true&hide=prs,issues" alt="My GitHub Stats" />
 </a>
-
-
-
-#### Toolbox
-<p align="left"> 
-<!-- 🔵SWIFT --><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/77747704/177408815-db8074f0-815f-4efd-b927-200af7e1dcff.png" alt="blender" width="40" height="40"/> </a> <!-- 🔵SWIFTUI --> <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77747704/177408822-9f4dff4b-5b9e-4e40-b095-ee3d25ad451d.jpeg" alt="blender" width="40" height="40"/> </a> <!-- 🔵PYTHON --> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77747704/177408817-e78c209b-57fb-4c50-8e6c-ab3dcc6c7d21.png" alt="blender" width="40" height="40"/> </a> <!-- 🔵HTML --> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77747704/177408820-fde0614b-7d09-4329-8588-69d16bfec884.jpeg" alt="blender" width="40" height="40"/> </a> <!-- 🔵CSS --> <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77747704/177408816-ed264b20-2380-4582-85b5-fed62d32927d.jpeg" alt="blender" width="40" height="40"/> </a> 
-
-</p>   
-
-
 
 
 
