@@ -19,8 +19,7 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
 
 #### My Favourite Repositories and Some Stats
 <a href="https://github.com/SoloUnity/Valorant-Store-Checker-iOS-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloUnity&repo=
-Valorant-Store-Checker-iOS-App" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloUnity&repo=Valorant-Store-Checker-iOS-App" />
 </a>
 <a href="https://github.com/SoloUnity/macos-apps-and-enhancements">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloUnity&repo=macos-apps-and-enhancements" />
