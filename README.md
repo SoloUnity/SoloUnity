@@ -7,7 +7,7 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
 **About me**
 - ❤️ I love to use Swift in apps to solve the little problems in life
 - 📚 Studying Software Engineering at McGill University
-- 💼 Currently learning React
+- 💼 Currently learning Java, JavaScript and React
 - 🎧 Probably listening to [music](https://open.spotify.com/playlist/66AeDiMrDqXStAK0DnrcYA?si=e128f373ef7847bd)
 
 #### Toolbox
