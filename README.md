@@ -36,8 +36,6 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
   <img align="center" src="https://user-images.githubusercontent.com/77747704/191420446-3284ec8f-66e4-4f55-ab07-b8160c9815c4.png" alt="Valorant Store Checker" />
 </a>
 
-![output-onlineimagetools](https://user-images.githubusercontent.com/77747704/191420446-3284ec8f-66e4-4f55-ab07-b8160c9815c4.png)
-
 
 
 
