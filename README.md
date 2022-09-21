@@ -10,7 +10,6 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
 - 💼 Currently learning Java, JavaScript, C, React and the Unix Terminal
 - 🎧 Probably listening to [music](https://open.spotify.com/playlist/66AeDiMrDqXStAK0DnrcYA?si=e128f373ef7847bd)
 
-![output-onlineimagetools](https://user-images.githubusercontent.com/77747704/191420446-3284ec8f-66e4-4f55-ab07-b8160c9815c4.png)
 
 #### Toolbox
 <p align="left"> 
@@ -32,6 +31,12 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
 <a href="https://github.com/SoloUnity?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloUnity&show_icons=true&line_height=40&count_private=true&hide=prs,issues" alt="My GitHub Stats" />
 </a>
+
+<a href="https://github.com/SoloUnity/Valorant-Store-Checker-App">
+  <img align="center" src="https://user-images.githubusercontent.com/77747704/191420446-3284ec8f-66e4-4f55-ab07-b8160c9815c4.png" alt="Valorant Store Checker" />
+</a>
+
+![output-onlineimagetools](https://user-images.githubusercontent.com/77747704/191420446-3284ec8f-66e4-4f55-ab07-b8160c9815c4.png)
 
 
 
