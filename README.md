@@ -7,7 +7,7 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
 **About me**
 - ❤️ I love to code projects that solve the little problems in life
 - 📚 Studying Software Engineering at McGill University
-- 💼 Currently learning Java, JavaScript, C, React and the Unix Terminal
+- 💼 Currently learning Java, JavaScript, C, React and Bash (and other terminal stuff)
 - 🎧 Probably listening to [music](https://open.spotify.com/playlist/66AeDiMrDqXStAK0DnrcYA?si=e128f373ef7847bd)
 
 
