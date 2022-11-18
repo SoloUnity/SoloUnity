@@ -46,12 +46,12 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
    
    <!-- BASH --> 
    <a href="https://www.gnu.org/software/bash/"> 
-      <img src="https://user-images.githubusercontent.com/77747704/197057934-a8ac49b4-e59a-4253-be24-1eb566fd9748.png" width="50" height="50"> 
+      <img src="https://user-images.githubusercontent.com/77747704/197057934-a8ac49b4-e59a-4253-be24-1eb566fd9748.png" width="45" height="45"> 
    </a>
    
    <!-- C --> 
    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> 
-      <img src="https://user-images.githubusercontent.com/77747704/202780365-d3c6dd6d-9450-406f-b658-8bbb6774edf0.png" width="50" height="50">
+      <img src="https://user-images.githubusercontent.com/77747704/202780365-d3c6dd6d-9450-406f-b658-8bbb6774edf0.png" width="45" height="45">
    </a> 
    
 </p>
