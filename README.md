@@ -16,7 +16,7 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
    
    <!-- SWIFT -->
    <a href="https://developer.apple.com/swift/">
-      <img src="https://user-images.githubusercontent.com/77747704/177408815-db8074f0-815f-4efd-b927-200af7e1dcff.png" width="40" height="40"/> 
+      <img src="https://user-images.githubusercontent.com/77747704/177408815-db8074f0-815f-4efd-b927-200af7e1dcff.png" width="40" height="40"> 
    </a> 
    
    <!-- SWIFTUI --> 
