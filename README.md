@@ -4,7 +4,7 @@
 
 Hello there! I'm Gordon, a student from Canada 🇨🇦
 
-**About me**
+#### About Me
 - ❤️ I love to code projects that solve the little problems in life
 - 📚 Studying Software Engineering at McGill University
 - 💼 Currently learning Java, C, JavaScript and React
