@@ -51,7 +51,7 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
    
    <!-- C --> 
    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> 
-      <img src="https://user-images.githubusercontent.com/77747704/202780106-cb9e8e1a-686e-4dba-863b-900934927b83.png" width="40" height="40">
+      <img src="https://user-images.githubusercontent.com/77747704/202780279-08fb22a9-3e12-4808-aea0-86e49e76726c.jpg" width="40" height="40">
    </a> 
    
 </p>
