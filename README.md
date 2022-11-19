@@ -60,21 +60,22 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
 <!-- From https://github.com/anuraghazra/github-readme-stats -->
 
 #### My Favourite Repositories and Some Stats
-<a href="https://github.com/SoloUnity/Valorant-Store-Checker-iOS-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloUnity&repo=Valorant-Store-Checker-iOS-App">
-</a>
+<p align="left">
+   <a href="https://github.com/SoloUnity/Valorant-Store-Checker-iOS-App">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloUnity&repo=Valorant-Store-Checker-iOS-App">
+   </a>
 
-<a href="https://github.com/SoloUnity/macos-apps-and-enhancements">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloUnity&repo=macos-apps-and-enhancements">
-</a>    
+   <a href="https://github.com/SoloUnity/macos-apps-and-enhancements">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloUnity&repo=macos-apps-and-enhancements">
+   </a>    
 
-<a href="https://github.com/SoloUnity?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoloUnity&langs_count=4">
-</a>
+   <a href="https://github.com/SoloUnity?tab=repositories">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoloUnity&langs_count=4">
+   </a>
 
-<a href="https://github.com/SoloUnity?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloUnity&show_icons=true&line_height=40&count_private=true&hide=prs" alt="My GitHub Stats">
-</a>
-
+   <a href="https://github.com/SoloUnity?tab=repositories">
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloUnity&show_icons=true&line_height=40&count_private=true&hide=prs" alt="My GitHub Stats">
+   </a>
+</p>
 
 
