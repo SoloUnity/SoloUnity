@@ -10,23 +10,27 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
 - 💼 Currently learning React and JavaScript
 - 🎧 Probably listening to [music](https://open.spotify.com/playlist/66AeDiMrDqXStAK0DnrcYA?si=e128f373ef7847bd)
 
-
 #### Toolbox
 <p align="left">
-   
-   <!-- SWIFT -->
-   <a href="https://developer.apple.com/swift/">
-      <img src="https://user-images.githubusercontent.com/77747704/177408815-db8074f0-815f-4efd-b927-200af7e1dcff.png" width="40" height="40" /> 
-   </a> 
    
    <!-- SWIFTUI --> 
    <a href="https://developer.apple.com/xcode/swiftui/"> 
       <img src="https://user-images.githubusercontent.com/77747704/177707038-67b6ae85-ab5c-41f3-9363-23c3ed013b59.png" width="40" height="40" /> 
    </a> 
    
-   <!-- PYTHON --> 
-   <a href="https://www.python.org"> 
-      <img src="https://user-images.githubusercontent.com/77747704/177408817-e78c209b-57fb-4c50-8e6c-ab3dcc6c7d21.png" width="40" height="40" /> 
+   <!-- SWIFT -->
+   <a href="https://developer.apple.com/swift/">
+      <img src="https://user-images.githubusercontent.com/77747704/177408815-db8074f0-815f-4efd-b927-200af7e1dcff.png" width="40" height="40" /> 
+   </a> 
+   
+   <!-- REACT --> 
+   <a href="https://reactjs.org"> 
+      <img src="https://user-images.githubusercontent.com/77747704/213636310-6c5d8887-128e-48bc-996c-4994c0df8ac0.png" width="40" height="40" /> 
+   </a> 
+
+   <!-- JS --> 
+   <a href="https://www.javascript.com"> 
+      <img src="https://user-images.githubusercontent.com/77747704/213636464-09191e85-c1f3-4040-b5a7-d043242a79e1.png" width="40" height="40" /> 
    </a> 
    
    <!-- HTML --> 
@@ -37,6 +41,11 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
    <!-- CSS --> 
    <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"> 
       <img src="https://user-images.githubusercontent.com/77747704/177707032-d1534118-d146-4d1b-95ed-6be01ace4829.png" width="40" height="40" /> 
+   </a> 
+   
+   <!-- PYTHON --> 
+   <a href="https://www.python.org"> 
+      <img src="https://user-images.githubusercontent.com/77747704/177408817-e78c209b-57fb-4c50-8e6c-ab3dcc6c7d21.png" width="40" height="40" /> 
    </a> 
    
    <!-- JAVA --> 
