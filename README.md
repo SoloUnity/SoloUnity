@@ -85,6 +85,8 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
    <a href="https://github.com/SoloUnity?tab=repositories">
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloUnity&show_icons=true&line_height=40&count_private=true&hide=prs" alt="My GitHub Stats" />
    </a>
+   
+   [![Discord Presence](https://lanyard.cnrad.dev/api/gordong#3637)](https://discord.com/users/gordong#3637)
 </p>
 
 
