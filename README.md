@@ -87,7 +87,7 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
    </a>
    
    <a href="https://discord.com/users/gordong#3637">
-     <img align="center" src="https://lanyard.cnrad.dev/api/gordong#3637?theme=light" alt="My GitHub Stats" />
+     <img align="center" src="https://lanyard.cnrad.dev/api/gordong#3637" alt="Discord" />
    </a>
    
 </p>
