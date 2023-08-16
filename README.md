@@ -22,10 +22,10 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
    <a href="https://developer.apple.com/swift/">
       <img src="https://user-images.githubusercontent.com/77747704/177408815-db8074f0-815f-4efd-b927-200af7e1dcff.png" width="40" height="40" /> 
    </a> 
-
+   
    <!-- UIKIT -->
    <a href="https://developer.apple.com/documentation/uikit/">
-      <img src="https://github.com/SoloUnity/SoloUnity/assets/77747704/093f7adb-8d0b-4975-bafb-223424bb2e32" width="40" height="40" /> 
+      <img src="https://github.com/SoloUnity/SoloUnity/assets/77747704/c9ef841a-d80e-4d00-b4fe-1f37ca16b6d7" width="40" height="40" /> 
    </a> 
 
    <!-- OBJ-C -->
