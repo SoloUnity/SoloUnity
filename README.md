@@ -22,6 +22,16 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
    <a href="https://developer.apple.com/swift/">
       <img src="https://user-images.githubusercontent.com/77747704/177408815-db8074f0-815f-4efd-b927-200af7e1dcff.png" width="40" height="40" /> 
    </a> 
+
+   <!-- UIKIT -->
+   <a href="https://developer.apple.com/documentation/uikit/">
+      <img src="https://github.com/SoloUnity/SoloUnity/assets/77747704/093f7adb-8d0b-4975-bafb-223424bb2e32" width="40" height="40" /> 
+   </a> 
+
+   <!-- OBJ-C -->
+   <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html">
+      <img src="https://github.com/SoloUnity/SoloUnity/assets/77747704/7a58e619-fe4c-424e-925d-3e21985c374f" width="40" height="40" /> 
+   </a> 
    
    <!-- REACT --> 
    <a href="https://reactjs.org"> 
