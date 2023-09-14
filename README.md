@@ -72,7 +72,11 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> 
       <img src="https://user-images.githubusercontent.com/77747704/202780365-d3c6dd6d-9450-406f-b658-8bbb6774edf0.png" width="40" height="40" />
    </a> 
-   
+
+   <!-- Ocaml --> 
+   <a href="https://www.ocaml.org"> 
+      <img src="https://ww1.freelogovectors.net/wp-content/uploads/2021/09/ocaml-logo-freelogovectors.net_-400x400.png?lossy=1&ssl=1&fit=400%2C400" width="40" height="40" /> 
+   </a> 
 </p>
 
 
