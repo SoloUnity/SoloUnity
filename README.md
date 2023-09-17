@@ -25,7 +25,7 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
 
    <!-- UIKIT -->
    <a href="https://developer.apple.com/documentation/uikit">
-      <img src="https://github.com/SoloUnity/SoloUnity/assets/77747704/c9ef841a-d80e-4d00-b4fe-1f37ca16b6d7" width="40" height="40" /> 
+      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/77747704/268479581-3377e397-e879-4f9e-9068-1f7422d908ce.png" width="40" height="40" /> 
    </a> 
 
 
