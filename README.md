@@ -18,16 +18,15 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
       <img src="https://user-images.githubusercontent.com/77747704/177707038-67b6ae85-ab5c-41f3-9363-23c3ed013b59.png" width="40" height="40" /> 
    </a> 
 
-      <!-- UIKIT -->
-   <a href="https://developer.apple.com/documentation/uikit">
-      <img src="https://github.com/SoloUnity/SoloUnity/assets/77747704/c9ef841a-d80e-4d00-b4fe-1f37ca16b6d7" width="40" height="40" /> 
-   </a> 
-   
    <!-- SWIFT -->
    <a href="https://developer.apple.com/swift/">
       <img src="https://user-images.githubusercontent.com/77747704/177408815-db8074f0-815f-4efd-b927-200af7e1dcff.png" width="40" height="40" /> 
    </a> 
-   
+
+   <!-- UIKIT -->
+   <a href="https://developer.apple.com/documentation/uikit">
+      <img src="https://github.com/SoloUnity/SoloUnity/assets/77747704/c9ef841a-d80e-4d00-b4fe-1f37ca16b6d7" width="40" height="40" /> 
+   </a> 
 
 
    <!-- OBJ-C -->
