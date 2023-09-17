@@ -31,7 +31,7 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
 
    <!-- OBJ-C -->
    <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html">
-      <img src="https://github.com/SoloUnity/SoloUnity/assets/77747704/7a58e619-fe4c-424e-925d-3e21985c374f" width="40" height="40" /> 
+      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/77747704/261041934-7a58e619-fe4c-424e-925d-3e21985c374f.png" width="40" height="40" /> 
    </a> 
    
    <!-- REACT --> 
