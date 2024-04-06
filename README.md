@@ -21,6 +21,8 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
 <img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/77747704/202780365-d3c6dd6d-9450-406f-b658-8bbb6774edf0.png" style="padding-right:10px;"/>
 <img align="left" alt="Bash" width="26px" src="https://user-images.githubusercontent.com/77747704/197057934-a8ac49b4-e59a-4253-be24-1eb566fd9748.png" style="padding-right:10px;"/>
 
+<br>
+
 <!-- From https://github.com/anuraghazra/github-readme-stats -->
 
 #### My Favourite Repositories and Some Stats
