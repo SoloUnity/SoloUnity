@@ -14,7 +14,6 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
 
 <img align="left" alt="Swift" width="26px" src="https://user-images.githubusercontent.com/77747704/177408815-db8074f0-815f-4efd-b927-200af7e1dcff.png" style="padding-right:10px;"/>
 <img align="left" alt="SwiftUI" width="26px" src="https://user-images.githubusercontent.com/77747704/177707038-67b6ae85-ab5c-41f3-9363-23c3ed013b59.png" style="padding-right:10px;"/>
-<img align="left" alt="Objective-C" width="26px" src="https://github.com/SoloUnity/SoloUnity/assets/77747704/dfb63263-0fcc-422b-8706-f8c6d90df39f" style="padding-right:10px;"/>
 <img align="left" alt="UIKit" width="26px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/77747704/268479581-3377e397-e879-4f9e-9068-1f7422d908ce.png" style="padding-right:10px;"/>
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/77747704/177408817-e78c209b-57fb-4c50-8e6c-ab3dcc6c7d21.png" style="padding-right:10px;"/>
 <img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/77747704/195940918-39b845bf-a738-4ce8-98dc-15e2cf63ae6e.png" style="padding-right:10px;"/>
