@@ -39,7 +39,7 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
    </a>
 
    <a href="https://github.com/SoloUnity?tab=repositories">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloUnity&show_icons=true&line_height=50&count_private=true&hide=contribs" alt="My GitHub Stats" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloUnity&show_icons=true&line_height=48&count_private=true&hide=contribs" alt="My GitHub Stats" />
    </a>
    
 </p>
