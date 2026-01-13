@@ -24,7 +24,7 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
 
 <!-- From https://github.com/anuraghazra/github-readme-stats -->
 
-#### My Favourite Repositories and Some Stats
+<!--#### My Favourite Repositories and Some Stats
 <p align="center">
    <a href="https://github.com/SoloUnity/Valorant-Store-Checker-iOS-App">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoloUnity&repo=Valorant-Store-Checker-iOS-App" />
@@ -42,6 +42,6 @@ Hello there! I'm Gordon, a student from Canada 🇨🇦
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoloUnity&show_icons=true&line_height=48&count_private=true&hide=contribs" alt="My GitHub Stats" />
    </a>
    
-</p>
+</p>-->
 
 
