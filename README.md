@@ -1,5 +1,5 @@
 <div align="center">
-   <img align="center" width="300" height="169" src="https://vectorseek.com/wp-content/uploads/2023/10/hello-Apple-Logo-Vector.svg-.png" alt="Hello">
+   <img align="center" width="300" src="https://vectorseek.com/wp-content/uploads/2023/10/hello-Apple-Logo-Vector.svg-.png" alt="Hello">
 </div>
 
 Hello there! I'm Gordon, a student from Canada 🇨🇦
